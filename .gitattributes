@@ -1,0 +1,17 @@
+* text=auto
+
+###### Git
+.gitattributes text
+.gitignore text
+.gitconfig text
+.gitmodules text
+
+##### Language
+# PHP
+*.php text
+*.phpt text
+*.phtml text
+*.twig text
+.htaccess text
+.ht text
+*.phar binary
