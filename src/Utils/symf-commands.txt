@@ -26,3 +26,6 @@ composer require orm
 composer require orm-fixtures --dev
 
 composer require symfony/asset
+
+
+composer require symfony/var-dumper
