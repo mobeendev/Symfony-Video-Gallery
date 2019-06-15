@@ -15,6 +15,7 @@ class AdminController extends AbstractController
      */
     public function index()
     {
+//        dump('d');
         return $this->render('admin/my_profile.html.twig');
     }
 

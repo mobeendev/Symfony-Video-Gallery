@@ -6,7 +6,7 @@ use Twig\Extension\AbstractExtension;
 use Twig\TwigFilter;
 use Twig\TwigFunction;
 
-class UrlSluggerExtension extends AbstractExtension
+class AppExtension extends AbstractExtension
 {
     public function getFilters(): array
     {
@@ -15,7 +15,6 @@ class UrlSluggerExtension extends AbstractExtension
             // parameter: ['is_safe' => ['html']]
             // Reference: https://twig.symfony.com/doc/2.x/advanced.html#automatic-escaping
             new TwigFilter('slugify', [$this, 'slugify']),
-
         ];
     }
 
@@ -33,3 +32,4 @@ class UrlSluggerExtension extends AbstractExtension
         return $string;
     }
 }
+
