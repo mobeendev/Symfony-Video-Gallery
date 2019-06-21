@@ -1,7 +1,7 @@
 php bin/console  make:migration
 php bin/console  make:registration-form
 php bin/console  debug:router
-
+php bin/console  make:form
 
 php bin/console doctrine:schema:drop -n -q --force --full-database && php bin/console make:migration && php bin/console doctrine:migrations:migrate -n -q && php bin/console doctrine:fixtures:load -n -q
 
@@ -24,6 +24,8 @@ composer require doctrine/doctrine-bundle
 composer require symfony/apache-pack
 composer require orm
 composer require orm-fixtures --dev
+
+composer require form validator   
 
 composer require symfony/asset
 
