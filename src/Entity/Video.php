@@ -36,7 +36,7 @@ class Video
     /**
      * @ORM\ManyToOne(targetEntity="App\Entity\Category", inversedBy="videos")
      */
-    private $Category;
+    private $category;
 
     public function getId(): ?int
     {
@@ -81,12 +81,12 @@ class Video
 
     public function getCategory(): ?Category
     {
-        return $this->Category;
+        return $this->category;
     }
 
-    public function setCategory(?Category $Category): self
+    public function setCategory(?Category $category): self
     {
-        $this->Category = $Category;
+        $this->category = $category;
 
         return $this;
     }
