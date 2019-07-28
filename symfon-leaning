@@ -1,0 +1,83 @@
+[33mcommit f35b25fe87d17b2ead6ea5989f6642e88acff3e1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jul 20 16:08:01 2019 +0200
+
+    videos list -v3 -- searching
+
+[33mcommit 77b4464bebc6309d13ea2cf3b9efe15fb6e92f7b[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jul 20 15:46:49 2019 +0200
+
+    videos list -v1 -- pagination & sorting
+
+[33mcommit f4050443bccd9dd1e16648927a7c888b4fb62217[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jul 13 17:27:11 2019 +0300
+
+    videos list -v1
+
+[33mcommit 39f808585a89b3a4b807028c72a6003f67d2d034[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Fri Jul 12 16:23:34 2019 +0300
+
+    admin edit categories form completed
+
+[33mcommit 519f935d6c71344031215e81af6920d8216f06e6[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Fri Jun 21 18:13:41 2019 +0300
+
+    admin edit categories form - v1
+
+[33mcommit ce55be87184d8e24e2e36f351287795d0be93b5f[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Fri Jun 21 16:52:35 2019 +0300
+
+    admin edit categories page
+
+[33mcommit ac7d24ffa154f5305234eb6e63e498cff1732839[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jun 15 16:34:25 2019 +0300
+
+    dynamic admin page categories
+
+[33mcommit 12a55e9166d087e27c3542a505a150aa4e935dbb[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jun 15 15:54:05 2019 +0300
+
+    dynamic front page categories
+
+[33mcommit ef55a1f0e8e233914bb8383e95b7d0ccf7601287[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Mon Jun 10 14:31:23 2019 +0300
+
+    Twig extension + Front Crontroller
+
+[33mcommit b7d6c09cd521853db7fa2f31952d78bbc0d51262[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jun 8 16:31:55 2019 +0300
+
+    atts file.
+
+[33mcommit e73f45732c11a4d59866768ccb56da4a49084878[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jun 8 16:21:10 2019 +0300
+
+    fixtures setup
+
+[33mcommit 99fc4e73a4623111df3d2fd379466dec458f2e09[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jun 8 16:18:37 2019 +0300
+
+    category & sub-category fixtures setup
+
+[33mcommit 159a5fa58993efd3cee0e26356bce075cf7b0f62[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jun 8 15:44:51 2019 +0300
+
+    symfony commands
+
+[33mcommit 0e64e213ff66f0485acf99a16532ed950d651c7a[m
+Author: Abdul Mobeen <mobeen@alkunat.com>
+Date:   Sat Jun 8 14:55:39 2019 +0300
+
+    initial project setup

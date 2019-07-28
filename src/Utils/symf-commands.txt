@@ -16,7 +16,7 @@ php bin/console cache:clear
 
 php bin/console make:
 php bin/console make:entity
-hp bin/console make:fixtures VideoFixtures
+php bin/console make:fixtures VideoFixtures
 
 php bin/console doctrine:fixtures:load
 
@@ -25,6 +25,8 @@ composer create-project symfony/skeleton my-project
 
 php bin/console doctrine:database:create
 php bin/console  make:migration
+php bin/console  make:user
+
 
 
 composer require  symfony/maker-bundle
@@ -43,3 +45,5 @@ composer require symfony/asset
 composer require symfony/var-dumper
 
 composer require knplabs/knp-paginator-bundle
+
+composer require security
